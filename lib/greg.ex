@@ -1,18 +1,5 @@
 defmodule Greg do
   @moduledoc """
-  Documentation for Greg.
+  Nothing to see here. Checkout my_rustler.ex for the rust NIF wrapping.
   """
-
-  @doc """
-  Hello world.
-
-  ## Examples
-
-      iex> Greg.hello
-      :world
-
-  """
-  def hello do
-    :world
-  end
 end
