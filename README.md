@@ -1,4 +1,4 @@
-See lib/my_rustler.ex and native/myrustler/lib.rs
+See lib/my_rustler.ex and native/myrustler/src/lib.rs
 
 * clone
 * mix deps.get
